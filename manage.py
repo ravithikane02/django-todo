@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# this is change
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'todoApp.settings')
     try:
